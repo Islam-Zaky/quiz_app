@@ -8,12 +8,36 @@
 
 
 # Demo
-https://github.com/Islam-Zaky/counter_app/assets/49339964/603329f7-c829-4d28-9f98-f9abd953ab39
+https://github.com/Islam-Zaky/quiz_app/assets/49339964/0bb6b408-03be-4050-9bed-165ef433ff5e
 
 
 # Screenshots
-![s1](https://github.com/Islam-Zaky/counter_app/assets/49339964/a14881d8-338e-4820-b7bf-990eeaf00a9c)
-![s2](https://github.com/Islam-Zaky/counter_app/assets/49339964/e031a0ae-5fc3-4846-ac6d-93743bb22702)
-![s3](https://github.com/Islam-Zaky/counter_app/assets/49339964/ddc5339a-d5b0-46e4-b47a-c3186018c76a)
+![1](https://github.com/Islam-Zaky/quiz_app/assets/49339964/574801a3-e286-4cd3-bc39-b0514c111d76)
+
+![2](https://github.com/Islam-Zaky/quiz_app/assets/49339964/89e34bbe-631d-4836-b503-721b6a2277de)
+
+![3](https://github.com/Islam-Zaky/quiz_app/assets/49339964/b34fa3d0-9c42-494e-86d2-292641479bba)
+
+![4](https://github.com/Islam-Zaky/quiz_app/assets/49339964/6ba380fa-5d31-4860-bc52-727317ccc3c4)
+
+![5](https://github.com/Islam-Zaky/quiz_app/assets/49339964/5740874d-0334-4235-8396-39c036dc9da9)
+
+![6](https://github.com/Islam-Zaky/quiz_app/assets/49339964/3678c2d1-963c-43a0-ad0f-516d5e355079)
+
+![7](https://github.com/Islam-Zaky/quiz_app/assets/49339964/5942e53b-1515-4dba-b8d5-fc5480701ce3)
+
+![8](https://github.com/Islam-Zaky/quiz_app/assets/49339964/8efde135-9fbe-4e52-b419-869df14798ea)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
