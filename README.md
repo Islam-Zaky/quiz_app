@@ -1,16 +1,19 @@
-# quiz_app
+# Quiz App
 
-A new Flutter project.
+- Flutter APP using to give quizes to students.
 
-## Getting Started
+# Learned
 
-This project is a starting point for a Flutter application.
+- Using Getx State Management.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Demo
+https://github.com/Islam-Zaky/counter_app/assets/49339964/603329f7-c829-4d28-9f98-f9abd953ab39
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Screenshots
+![s1](https://github.com/Islam-Zaky/counter_app/assets/49339964/a14881d8-338e-4820-b7bf-990eeaf00a9c)
+![s2](https://github.com/Islam-Zaky/counter_app/assets/49339964/e031a0ae-5fc3-4846-ac6d-93743bb22702)
+![s3](https://github.com/Islam-Zaky/counter_app/assets/49339964/ddc5339a-d5b0-46e4-b47a-c3186018c76a)
+
+
